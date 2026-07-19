@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bài 3 - Prompt engineering hiệu quả | Phương Linh portfolio</title>
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800&family=Lora:ital,wght@0,400;0,600;1,400&display=swap"
+    rel="stylesheet">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="detail-page-body">
+  <!-- Animated Background Setup (reused) -->
+  <div class="glass-bg">
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="blob blob-3"></div>
+  </div>
+
+  <div class="detail-page-wrapper">
+    <a href="index.html?panel=4" class="back-link"><i class="fas fa-arrow-left"></i> Quay lại trang chủ</a>
+
+    <div class="detail-header">
+      <div class="ex-number">Bài tập 03</div>
+      <h1>Prompt engineering hiệu quả</h1>
+      <p class="lead">Áp dụng các kỹ thuật prompt nâng cao để điều hướng AI giải quyết vấn đề chuyên sâu, biến câu lệnh
+        thành một bản thiết kế tư duy hoàn chỉnh.</p>
+    </div>
+
+    <div class="detail-grid">
+      <!-- Left: PDF Detailed content -->
+      <div class="detail-content reveal">
+
+        <h2
+          style="font-size: 1.25rem; color: var(--accent); margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.5rem;">
+          <i class="fas fa-bullseye"></i> Tóm tắt 3 tác vụ
+        </h2>
+        <ul style="margin-bottom: 1.5rem; line-height: 1.7; padding-left: 1.2rem;">
+          <li><strong>Tác vụ 1: Tóm tắt tài liệu học thuật.</strong> Thách thức: Xác định đúng luận điểm chính, phân
+            biệt ý chính – ý phụ, giữ được tính logic và học thuật.</li>
+          <li><strong>Tác vụ 2: Giải thích khái niệm phức tạp.</strong> Thách thức: Đơn giản hóa nội dung phức tạp, sử
+            dụng ví dụ minh họa và kết hợp lý thuyết với thực tiễn.</li>
+          <li><strong>Tác vụ 3: Tạo câu hỏi ôn tập.</strong> Thách thức: Phân loại mức độ tư duy, đa dạng hóa dạng câu
+            hỏi và đảm bảo có đáp án hoặc hướng dẫn.</li>
+        </ul>
+
+        <h2
+          style="font-size: 1.25rem; color: var(--accent); margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.5rem;">
+          <i class="fas fa-search-plus"></i> Tác vụ mẫu: Tác vụ 1 - Tóm tắt tài liệu học thuật
+        </h2>
+        <div
+          style="background: rgba(255,255,255,0.8); padding: 1.5rem; border-radius: 8px; border: 1px solid rgba(0,0,0,0.05); margin-bottom: 1.5rem;">
+          <h3 style="margin-top: 0; color: var(--text); font-size: 1.1rem;">Phiên bản 1 – Cơ bản</h3>
+          <p><strong>Câu hỏi:</strong> "Tóm tắt đoạn văn sau đơn giản ngắn gọn."</p>
+          <p><strong>Kết quả:</strong> Nội dung chung chung, thiếu trọng tâm.</p>
+          <img src="assets/images/BT2-B3_image7.png" alt="Kết quả phiên bản 1"
+            style="max-width: 100%; border-radius: 8px; margin-top: 1rem; border: 1px solid rgba(0,0,0,0.1); box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+
+          <hr style="border: 0; border-top: 1px dashed rgba(0,0,0,0.1); margin: 1.5rem 0;">
+
+          <h3 style="margin-top: 0; color: var(--text); font-size: 1.1rem;">Phiên bản 2 – Cải tiến</h3>
+          <p><strong>Câu hỏi:</strong> "Hãy tóm tắt bài viết sau trong khoảng 150 từ, trình bày các luận điểm chính, kết
+            luận và ví dụ minh họa (nếu có)."</p>
+          <p><strong>Kết quả:</strong> Có cấu trúc rõ hơn nhưng vẫn thiếu một số ý quan trọng.</p>
+          <img src="assets/images/BT2-B3_image5.png" alt="Kết quả phiên bản 2"
+            style="max-width: 100%; border-radius: 8px; margin-top: 1rem; border: 1px solid rgba(0,0,0,0.1); box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+
+          <hr style="border: 0; border-top: 1px dashed rgba(0,0,0,0.1); margin: 1.5rem 0;">
+
+          <h3 style="margin-top: 0; color: var(--text); font-size: 1.1rem; color: var(--accent);">Phiên bản 3 – Nâng cao
+          </h3>
+          <p><strong>Câu hỏi:</strong> "Bạn là một sinh viên cao học đang chuẩn bị bài thuyết trình. Hãy đọc văn bản sau
+            và tóm tắt theo cấu trúc: 1. Mục tiêu nghiên cứu, 2. Phương pháp, 3. Kết quả chính, 4. Kết luận và ứng dụng.
+            Viết khoảng 200 từ, tập trung vào nội dung cốt lõi."</p>
+          <p><strong>Kết quả:</strong> Rõ ràng, logic, mang tính học thuật cao và cực kỳ phù hợp với mục đích học tập.
+          </p>
+          <img src="assets/images/BT2-B3_image4.png" alt="Kết quả phiên bản 3"
+            style="max-width: 100%; border-radius: 8px; margin-top: 1rem; border: 1px solid rgba(0,0,0,0.1); box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+
+          <hr style="border: 0; border-top: 1px dashed rgba(0,0,0,0.1); margin: 1.5rem 0;">
+
+          <h3 style="margin-top: 0; color: var(--text); font-size: 1.1rem; color: var(--accent);"><i
+              class="fas fa-balance-scale"></i> Bảng so sánh hiệu quả các phiên bản</h3>
+          <div class="table-responsive">
+            <table>
+              <thead>
+                <tr>
+                  <th>Tiêu chí</th>
+                  <th>Cơ bản</th>
+                  <th>Cải tiến</th>
+                  <th>Nâng cao</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>Độ rõ ràng</strong></td>
+                  <td>Thấp</td>
+                  <td>Trung bình</td>
+                  <td>Cao</td>
+                </tr>
+                <tr>
+                  <td><strong>Cấu trúc</strong></td>
+                  <td>Không có</td>
+                  <td>Có</td>
+                  <td>Rất rõ</td>
+                </tr>
+                <tr>
+                  <td><strong>Tính học thuật</strong></td>
+                  <td>Thấp</td>
+                  <td>Trung bình</td>
+                  <td>Cao</td>
+                </tr>
+                <tr>
+                  <td><strong>Tính ứng dụng</strong></td>
+                  <td>Thấp</td>
+                  <td>Khá</td>
+                  <td>Rất cao</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Right: Original HTML assets (Images, Code blocks, tables) -->
+      <div class="detail-assets reveal">
+        <h3 class="section-title" style="font-size: 1.15rem; margin-bottom: 1rem;  padding-bottom: 0.4rem;">Thông tin bổ
+          sung</h3>
+        <p style="font-size: 0.95rem; color: var(--muted); margin-bottom: 1.5rem;">Việc áp dụng kỹ thuật Role Prompting
+          (gán vai trò) và Constraints (đặt ràng buộc) giúp thu hẹp không gian xác suất của AI, từ đó ép mô hình ngôn
+          ngữ lớn (LLMs) sinh ra câu trả lời chuyên sâu, đúng trọng tâm và phù hợp hoàn toàn với đối tượng mục tiêu.</p>
+        <div style="border-top: 1px solid var(--border-muted); padding-top: 1.5rem;">
+          <h4 class="skill-group-title"
+            style="font-size: 0.85rem; margin-bottom: 0.8rem; font-family: var(--font-mono); text-transform: uppercase;">
+            Kỹ năng rèn luyện</h4>
+          <div class="card-skills">
+            <span class="skill-chip">Role Prompting</span>
+            <span class="skill-chip">Chain-of-Thought</span>
+            <span class="skill-chip">LLM Output Analysis</span>
+            <span class="skill-chip">AI Interaction</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

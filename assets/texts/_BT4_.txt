@@ -1,0 +1,90 @@
+Sử dụng AI có trách nhiệm trong học tập và nghiên cứu
+I. Giới thiệu
+Sự phát triển nhanh chóng của trí tuệ nhân tạo AI đang tạo ra nhiều cơ hội hỗ trợ học tập và nghiên cứu trong giáo dục đại học. Tuy nhiên, việc sử dụng AI cũng đặt ra những thách thức về đạo đức học thuật, quyền sở hữu trí tuệ và nguy cơ gian lận. Báo cáo này nhằm phân tích chính sách sử dụng AI của một trường đại học lớn tại Việt Nam, mô tả quá trình sử dụng AI trong một nhiệm vụ học tập cụ thể, phân tích các vấn đề đạo đức liên quan, xây dựng bộ nguyên tắc cá nhân và thiết kế infographic tuyên truyền về việc sử dụng AI có trách nhiệm.
+II. Nghiên cứu chính sách của trường đại học về việc sử dụng AI
+1. Chính sách tham khảo: Đại học Quốc gia TP. Hồ Chí Minh (ĐHQG-HCM)
+Dựa trên các quy định chung về liêm chính học thuật và định hướng chuyển đổi số trong giáo dục, ĐHQG-HCM cho phép sinh viên sử dụng các công cụ AI như một công cụ hỗ trợ học tập, nhưng không được thay thế hoàn toàn tư duy cá nhân.
+Các điểm chính của chính sách:
+-
+        
+AI được phép sử dụng để hỗ trợ tìm ý tưởng, chỉnh sửa ngôn ngữ, tóm tắt tài liệu.
+-
+        
+Nghiêm cấm việc nộp sản phẩm do AI tạo ra như là toàn bộ bài làm của sinh viên.
+-
+        
+Sinh viên phải trích dẫn minh bạch khi có sử dụng AI.
+-
+        
+Giảng viên có quyền yêu cầu sinh viên giải trình quá trình làm bài.
+Nhận định cá nhân:
+ Chính sách của ĐHQG-HCM mang tính cân bằng giữa khuyến khích đổi mới và bảo vệ liêm chính học thuật. So với một số trường quốc tế, chính sách vẫn đang ở giai đoạn định hướng, chưa có hướng dẫn chi tiết cho từng môn học, nhưng đã thể hiện rõ quan điểm không cấm tuyệt đối AI mà quản lý việc sử dụng.
+III. Thực hiện nhiệm vụ học tập với sự hỗ trợ của AI
+1. Nhiệm vụ học tập được chọn
+Viết bài luận ngắn (1.500 từ) về chủ đề: “Tác động của mạng xã hội đến kỹ năng giao tiếp của sinh viên”.
+2. Các prompt đã sử dụng
+- Prompt 1: &quot;Gợi ý dàn ý cho bài luận về tác động của mạng xã hội đến kỹ năng giao tiếp của sinh viên.&quot;
+- Prompt 2: &quot;Liệt kê các tác động tích cực và tiêu cực của mạng xã hội đối với giao tiếp trực tiếp.&quot;
+- Prompt 3: &quot;Gợi ý cách viết kết luận cho bài luận học thuật.&quot;
+3. Đầu ra của AI (tóm tắt)
+- AI cung cấp dàn ý 3 phần rõ ràng.
+- Liệt kê các luận điểm chính kèm ví dụ chung.
+- Đề xuất kết luận mang tính tổng hợp.
+4. Cách đánh giá, chỉnh sửa và tích hợp đầu ra của AI
+- So sánh nội dung AI với tài liệu học thuật để kiểm chứng độ chính xác.
+- Viết lại toàn bộ bằng ngôn ngữ cá nhân.
+- Bổ sung ví dụ thực tế và quan điểm cá nhân.
+- Loại bỏ các nội dung chung chung, thiếu dẫn chứng.
+5. Trích dẫn việc sử dụng AI
+Bài luận có sử dụng ChatGPT như một công cụ hỗ trợ xây dựng dàn ý và gợi ý ý tưởng. Toàn bộ nội dung được viết lại, chỉnh sửa và chịu trách nhiệm bởi người học.
+IV. Phân tích các vấn đề đạo đức khi sử dụng AI trong học thuật
+1. Ranh giới giữa hỗ trợ hợp lý và gian lận học thuật
+AI hỗ trợ hợp lý khi giúp gợi ý, chỉnh sửa và khơi gợi tư duy. Gian lận xảy ra khi sinh viên sao chép nguyên văn đầu ra của AI và nộp như bài làm cá nhân.
+2. Quyền sở hữu trí tuệ và trích dẫn
+Nội dung do AI tạo ra vẫn dựa trên dữ liệu có sẵn. Việc không trích dẫn AI có thể gây hiểu nhầm về quyền tác giả và vi phạm nguyên tắc minh bạch học thuật.
+3. Tác động đến quá trình học tập và phát triển kỹ năng
+Lạm dụng AI có thể làm suy giảm kỹ năng tư duy phản biện, viết học thuật và nghiên cứu độc lập. Ngược lại, sử dụng đúng cách giúp nâng cao hiệu quả học tập.
+V. Bộ nguyên tắc cá nhân về sử dụng AI có trách nhiệm (7 nguyên tắc)
+1.
+     
+AI chỉ đóng vai trò hỗ trợ, không thay thế tư duy cá nhân.
+2.
+     
+Luôn kiểm chứng thông tin do AI cung cấp.
+3.
+     
+Không sao chép nguyên văn đầu ra của AI.
+4.
+     
+Trích dẫn minh bạch khi có sử dụng AI.
+5.
+     
+Tuân thủ quy định của môn học và nhà trường.
+6.
+     
+Ưu tiên phát triển kỹ năng cá nhân trước khi dùng AI.
+7.
+     
+Chịu trách nhiệm hoàn toàn về nội dung bài làm.
+VI. Infographic: “SỬ DỤNG AI CÓ TRÁCH NHIỆM TRONG HỌC THUẬT”
+Nội dung chính của infographic:
+-
+        
+AI là công cụ hỗ trợ, không phải người làm thay.
+-
+        
+Không sao chép – Không gian lận.
+-
+        
+Luôn trích dẫn khi dùng AI.
+-
+        
+Kiểm chứng thông tin.
+-
+        
+Học tập trung thực – phát triển bền vững.
+(Infographic được thiết kế với bố cục rõ ràng, màu sắc hài hòa, biểu tượng minh họa trực quan.)
+VII. Kết luận
+Việc sử dụng AI trong học thuật là xu hướng tất yếu. Tuy nhiên, để đạt được hiệu quả tích cực và tránh vi phạm đạo đức học thuật, sinh viên cần hiểu rõ chính sách của nhà trường, sử dụng AI một cách minh bạch, có trách nhiệm và định hướng phát triển năng lực cá nhân lâu dài.
+ 
+ 
